@@ -74,7 +74,8 @@ This tool was developed with students in mind, especially those who find themsel
 ![landing page](Screenshots/URL.png)
 ![landing page](Screenshots/summary.png)<br><br>
 ![landing page](Screenshots/important1.png)
-![landing page](Screenshots/important2.png)
+
+
 
 
   
